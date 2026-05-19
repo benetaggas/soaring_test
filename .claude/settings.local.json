@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(\\(Get-Content \"D:\\\\Code\\\\soaring_test_main\\\\Assets\\\\Prefabs\\\\Square.prefab\" | Measure-Object -Line\\).Lines)"
+    ]
+  }
+}
